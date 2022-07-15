@@ -1,13 +1,13 @@
 <font face = "Trebuchet MS">
 <div align="center">
-    <h2 align="center">Project Title</h2>
-    <p align="center">Project Description</p>
+    <h2 align="center">Hosties: Karyuu</h2>
+    <p align="center">This is a full remake of the original Hosties series.</p>
     <b>
-        <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
+        <a href="https://github.com/K4ryuu/Hosties-Karyuu/releases">Download</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Report Bug</a>
+        <a href="https://github.com/K4ryuu/Hosties-Karyuu/issues">Report Bug</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
+        <a href="https://github.com/K4ryuu/Hosties-Karyuu/issues">Request Feature</a>
     </b>
     <br/>
     <b>Do not forget to give a ⭐ on the projects!</b><br/><br/>
