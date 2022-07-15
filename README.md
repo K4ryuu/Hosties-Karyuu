@@ -1,7 +1,7 @@
 <font face = "Trebuchet MS">
 <div align="center">
     <h2 align="center">Hosties: Karyuu</h2>
-    <p align="center">This is a full remake of the original Hosties series.</p>
+    <p align="center">This is a full remake of the original Hosties series. Yeah... This will do it.</p>
     <b>
         <a href="https://github.com/K4ryuu/Hosties-Karyuu/releases">Download</a>
         ·
